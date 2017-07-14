@@ -26,7 +26,6 @@
     "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
   ],
   "license": "MIT",
-  "custom": {
-   "url": "ngingxproxy.three.ezyflight.se"
+  "custom-url": "ngingxproxy.three.ezyflight.se"
   }
 }
