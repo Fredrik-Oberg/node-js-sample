@@ -1,3 +1,3 @@
 FROM node:4-onbuild
 # replace this with your application's default port
-EXPOSE 1337
+EXPOSE 1339
