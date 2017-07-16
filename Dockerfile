@@ -1,4 +1,4 @@
-FROM node:4
+FROM node:alpine
 # replace this with your application's default port
 ARG PROJECT_PORT=1337
 ARG PROJECT_URL=subdomain.domain.com
