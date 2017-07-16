@@ -3,4 +3,4 @@ FROM node:alpine
 ARG PROJECT_PORT=1337
 ARG PROJECT_URL=subdomain.domain.com
 LABEL project-url=$PROJECT_URL  
-EXPOSE 1339
+EXPOSE $PROJECT_PORT
